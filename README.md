@@ -1,11 +1,17 @@
 # 🏠 House Rent Predictor
 
-A machine learning-powered web application that predicts house rent prices in major Indian cities based on property features. Built with Streamlit for an interactive user experience.
+A Machine Learning-powered web application that predicts house rent prices in major Indian cities based on property features. Built with Streamlit for an interactive user experience.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+## 🔗 Live Preview
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://house-rent-predictor-and-analysis.streamlit.app/)
+
+> 🚀 **[Click here to try the live demo →](https://house-rent-predictor-and-analysis.streamlit.app/)**
 
 ## ✨ Features
 
